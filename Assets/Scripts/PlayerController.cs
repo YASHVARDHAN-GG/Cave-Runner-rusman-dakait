@@ -1,12 +1,12 @@
 using System.Collections;
-using Unity.VisualScripting;
-using UnityEditor.Callbacks;
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
     public Rigidbody2D rb;
     public Controller inputHandler;
+    public Animator anim;
+    public ParticleSystem dust;
 
     //movement
     public float movespeed = 5f;
@@ -51,6 +51,7 @@ public class PlayerController : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         inputHandler = GetComponent<Controller>();
+        anim= rb.GetComponent<Animator>();
     }
 
     private void Update()
@@ -68,7 +69,9 @@ public class PlayerController : MonoBehaviour
         {
             StartCoroutine(Dash());
         }
-
+        anim.SetBool("isRunning",inputHandler.movement.x != 0);
+        anim.SetBool("isDashing", isDashing);
+        anim.SetBool("isJumping", !isGrounded());
     }
 
     private void FlipCharacter()
@@ -100,6 +103,9 @@ public class PlayerController : MonoBehaviour
             Vector3 localScale = transform.localScale;
             localScale.x *= -1f;
             transform.localScale = localScale;
+
+            if (isGrounded())
+                dust.Play();
         }
     }
 
@@ -109,11 +115,13 @@ public class PlayerController : MonoBehaviour
         if (isDashing)
         {
             return;
+           
         }
 
         if (inputHandler.jumpInput && isGrounded())
         {
             rb.linearVelocityY = jumpforce;
+            dust.Play();
         }
     }
 

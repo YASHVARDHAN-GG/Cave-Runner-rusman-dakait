@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 387581b94e6b4ae4e9cf2d78f03b3efd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5573445097471773583
+    second: scorpion2-Sheet_0
+  - first:
+      213: 3245067331962220010
+    second: scorpion2-Sheet_1
+  - first:
+      213: 6973841407876353124
+    second: scorpion2-Sheet_2
+  - first:
+      213: -6342670864485581329
+    second: scorpion2-Sheet_3
+  - first:
+      213: 8419613097353359813
+    second: scorpion2-Sheet_4
+  - first:
+      213: -3225542446824061100
+    second: scorpion2-Sheet_5
+  - first:
+      213: -7906232055963909073
+    second: scorpion2-Sheet_6
+  - first:
+      213: 4967445736132770609
+    second: scorpion2-Sheet_7
+  - first:
+      213: -9170214088161157562
+    second: scorpion2-Sheet_8
+  - first:
+      213: 2552579145526632550
+    second: scorpion2-Sheet_9
+  - first:
+      213: -4128903638488598039
+    second: scorpion2-Sheet_10
+  - first:
+      213: 301756800563218108
+    second: scorpion2-Sheet_11
+  - first:
+      213: -4914871600036745204
+    second: scorpion2-Sheet_12
+  - first:
+      213: 9161861410888121000
+    second: scorpion2-Sheet_13
+  - first:
+      213: 7680852374774526707
+    second: scorpion2-Sheet_14
+  - first:
+      213: 4277009805387504632
+    second: scorpion2-Sheet_15
+  - first:
+      213: 5450584297275597875
+    second: scorpion2-Sheet_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: scorpion2-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 255
+        width: 80
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b82f969cad85d40800000000000000
+      internalID: 5573445097471773583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorpion2-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 255
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed25d99b8bc80d20800000000000000
+      internalID: 3245067331962220010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorpion2-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 255
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c416cbfcf08c060800000000000000
+      internalID: 6973841407876353124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorpion2-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 191
+        width: 81
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fedfd13247e4af7a0800000000000000
+      internalID: -6342670864485581329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorpion2-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 191
+        width: 81
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c139f5c08978d470800000000000000
+      internalID: 8419613097353359813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorpion2-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 191
+        width: 83
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4578b19fb329c33d0800000000000000
+      internalID: -3225542446824061100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorpion2-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 191
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24077885db674290800000000000000
+      internalID: -7906232055963909073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorpion2-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 191
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bf83f0499efe440800000000000000
+      internalID: 4967445736132770609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorpion2-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 127
+        width: 81
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e1fd86fdadcb080800000000000000
+      internalID: -9170214088161157562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorpion2-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 127
+        width: 75
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6606f2e65359c6320800000000000000
+      internalID: 2552579145526632550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorpion2-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 127
+        width: 78
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9b114440033b6c0800000000000000
+      internalID: -4128903638488598039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorpion2-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 63
+        width: 80
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6012a163e003400800000000000000
+      internalID: 301756800563218108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorpion2-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 63
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c007723e15edacbb0800000000000000
+      internalID: -4914871600036745204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorpion2-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 63
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa785d5968752f70800000000000000
+      internalID: 9161861410888121000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorpion2-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 79
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2b6aa3a8ed79a60800000000000000
+      internalID: 7680852374774526707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorpion2-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb1cf6e1cdfa5b30800000000000000
+      internalID: 4277009805387504632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorpion2-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 98
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3342f693a8d54ab40800000000000000
+      internalID: 5450584297275597875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      scorpion2-Sheet_0: 5573445097471773583
+      scorpion2-Sheet_1: 3245067331962220010
+      scorpion2-Sheet_10: -4128903638488598039
+      scorpion2-Sheet_11: 301756800563218108
+      scorpion2-Sheet_12: -4914871600036745204
+      scorpion2-Sheet_13: 9161861410888121000
+      scorpion2-Sheet_14: 7680852374774526707
+      scorpion2-Sheet_15: 4277009805387504632
+      scorpion2-Sheet_16: 5450584297275597875
+      scorpion2-Sheet_2: 6973841407876353124
+      scorpion2-Sheet_3: -6342670864485581329
+      scorpion2-Sheet_4: 8419613097353359813
+      scorpion2-Sheet_5: -3225542446824061100
+      scorpion2-Sheet_6: -7906232055963909073
+      scorpion2-Sheet_7: 4967445736132770609
+      scorpion2-Sheet_8: -9170214088161157562
+      scorpion2-Sheet_9: 2552579145526632550
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
